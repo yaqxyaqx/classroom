@@ -1,3 +1,6 @@
 [submodule "Amy"]
 	path = Amy
 	url = git@bitbucket.org:elvira_chen/amy.git
+[submodule "Gill"]
+	path = Gill
+	url = git@bitbucket.org:elvira_chen/gill.git
