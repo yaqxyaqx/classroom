@@ -1,0 +1,3 @@
+[submodule "Amy"]
+	path = Amy
+	url = git@bitbucket.org:elvira_chen/amy.git
